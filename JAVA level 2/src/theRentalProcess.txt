@@ -1,0 +1,21 @@
+RentTransaction: 
+Car's information=Car has a speical Number Plate= 20, from the brand: BWW, with a rental rate= 250, The Car Was Made in: China in 2015, the car is clean? true
+ Customer =Customer's Civil ID= 1111, Name: Osama, gender: Male, Card Number= 13579246, has Criminal Record? false
+ The rental process Date: 3/4/2021
+
+RentTransaction: 
+Car's information=Car has a speical Number Plate= 24, from the brand: Bentley, with a rental rate= 100, The Car Was Made in: USA in 2013, the car is clean? true
+ Customer =Customer's Civil ID= 2222, Name: Siba, gender: Female, Card Number= 98765423, has Criminal Record? false
+ The rental process Date: 3/4/2021
+
+RentTransaction: 
+Car's information=Car has a speical Number Plate= 27, from the brand: Chevrolet, with a rental rate= 500, The Car Was Made in: UK in 2019, the car is clean? true
+ Customer =Customer's Civil ID= 2222, Name: Siba, gender: Female, Card Number= 98765423, has Criminal Record? false
+ The rental process Date: 7/2/2021
+
+RentTransaction: 
+Car's information=Car has a speical Number Plate= 27, from the brand: Chevrolet, with a rental rate= 500, The Car Was Made in: UK in 2019, the car is clean? true
+ Customer =Customer's Civil ID= 2222, Name: Siba, gender: Female, Card Number= 98765423, has Criminal Record? false
+ The rental process Date: 5/4/2021
+
+
